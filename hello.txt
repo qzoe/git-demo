@@ -8,5 +8,5 @@ hello qzone! hello world! hello China!
 hello qzone! hello world! hello China!
 hello qzone! hello world! hello China!
 hello qzone! hello world! hello China! master test
-hello qzone! hello world! hello China!
+hello qzone! hello world! hello China! hot-fix test!
 hot-fix version
